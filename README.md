@@ -1,2 +1,2 @@
-# Reinforcemen-Learning
+# Reinforcement-Learning
 Implementations of RL
